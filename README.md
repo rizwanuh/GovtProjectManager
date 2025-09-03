@@ -1,7 +1,7 @@
 
   # AAI PMS
 
-  This is a code bundle for AAI PMS. The original project is available at .
+  Manage and track all projects with ease .
 
   ## Running the code
 
