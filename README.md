@@ -1,7 +1,7 @@
 
   # AAI PMS
 
-  This is a code bundle for AAI PMS. The original project is available at https://www.figma.com/design/QXHbkFIvFDZllx1lrgrmUX/AAI-PMS.
+  This is a code bundle for AAI PMS. The original project is available at .
 
   ## Running the code
 
